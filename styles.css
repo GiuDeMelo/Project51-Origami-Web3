@@ -1,0 +1,65 @@
+.heading{
+    color: #ffffff;
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+.menu{
+    background-color:#000000;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.bodyimg p{
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bodyimg h3{
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a:link{
+    color: #ffffff;
+}
+
+a:visited{
+    color: #a5a5a5;
+}
+
+body{
+    background-color:#b4b4b4;
+    margin: 0px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: sans-serif;
+    margin: 40px;
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+.origami {
+    background-color: #ffffff;
+    font-family: fantasy;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    width:310px;
+}
