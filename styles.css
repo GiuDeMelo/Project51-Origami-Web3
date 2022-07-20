@@ -15,19 +15,25 @@
     font-weight: 400;
 }
 
-.bodyimg p{
+.bodyimg {
+    background: url('main2.jpg');
+    width: 100 vw;
+    height: 400px;
+}
+.bodyimg p {
     color: #ffffff;
     font-family: 'Merriweather', serif;
     display: flex;
+    position: absolute;
     justify-content: space-evenly;
-}
-
-.bodyimg h3{
+} 
+.bodyimg h3 {
     color: #ffffff;
     font-family: 'Merriweather', serif;
+    position: absolute;
     display: flex;
-    justify-content: space-evenly;
-}
+    justify-content: space-between;
+}  
 
 a:link{
     color: #ffffff;
